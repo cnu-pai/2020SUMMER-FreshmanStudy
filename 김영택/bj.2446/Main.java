@@ -4,7 +4,6 @@ public class Main {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.print("");
 		int N = sc.nextInt();
 		for(int i = 0; i < N; i++) {
 			for(int x = 0; x < i; x++) {
